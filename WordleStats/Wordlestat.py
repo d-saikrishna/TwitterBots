@@ -5,10 +5,10 @@ import numpy as np
 import pandas as pd
 # https://docs.tweepy.org/en/v4.0.0/api.html#tweepy.API.search_tweets
 
-consumer_key = 'oerKIvFGnuxtpHjqmw2H0Chha'
-consumer_secret='8OaGvPXZPHXMOWQkB15JhC254RCrFpWt99j7eNGGHHZ6SmjFDY'
-access_token= '356069549-l3TpRvLiSCznODuhv90rkHJRuiXIqK55hnj8wj2r'
-access_token_secret= 'Reyb32Ta2hMXBLDIr5DOjWfbaWWrowqFaB23y1JacBXhF'
+consumer_key = 'xxx'
+consumer_secret='yyy'
+access_token= 'vvv-ccc'
+access_token_secret= 'rrr'
 
 auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
