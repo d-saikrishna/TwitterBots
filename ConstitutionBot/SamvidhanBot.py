@@ -47,11 +47,12 @@ def tweet_constititution_wisdom():
 
     try:
         filename = author_images[random.randint(0, len(author_images) - 1)]
-        res = api.media_upload(filename)
+        res = api.media_upload(cwd+r'/ConstitutionBot/'+filename)
         media_ids.append(res.media_id)
         api.update_status(status=tweet, media_ids=media_ids)
     except:
         api.update_status(status=tweet)
+        #print('hah')
 
 def run():
     while True:
