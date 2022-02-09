@@ -52,7 +52,6 @@ def tweet_constititution_wisdom():
         api.update_status(status=tweet, media_ids=media_ids)
     except:
         api.update_status(status=tweet)
-        #print('hah')
 
 def run():
     while True:
