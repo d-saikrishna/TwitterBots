@@ -22,7 +22,7 @@ def tweet_constititution_wisdom():
     df = df[(df['Length'] <= 275) & (df['Length'] > 0)].reset_index(drop=True)
     n = random.randint(0, df.shape[0] - 1)
 
-    files = [f for f in os.listdir('.') if os.path.isfile(f)]
+    files = os.listdir(cwd+r'/ConstitutionBot')
     if (df['Author'][n] == 'NA'):
         tweet = str(df['Tweet'][n])
         author_images = [k for k in files if 'fact' in k]
