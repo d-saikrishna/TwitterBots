@@ -15,7 +15,7 @@ def tweet_constititution_wisdom():
     auth = tw.OAuthHandler(consumer_key, consumer_secret)
     auth.set_access_token(access_token, access_token_secret)
     api = tw.API(auth, wait_on_rate_limit=True)
-    gc = pygsheets.authorize(service_file=cwd+r'\ConstitutionBot\constitutionbot-3e833b17dba1.json')
+    gc = pygsheets.authorize(service_file=cwd+r'/ConstitutionBot/constitutionbot-3e833b17dba1.json')
     sh = gc.open('ConstitutionBot')
     wks = sh.worksheet('title', 'Sheet1')
     df = wks.get_as_df()
