@@ -1,4 +1,5 @@
 venv
 *.pyc
 .env
-.DS_Store
+.DS_Store!/ConstitutionBot/constitutionbot-3e833b17dba1.json
+!/ConstitutionBot/client_secret_386853697209-2llkjeokl8rijee7h13hvrduns6ors6t.apps.googleusercontent.com.json
