@@ -1,1 +1,1 @@
-worker: python ConstitutionBot/SamvidhanBot.py:server
+worker: python ConstitutionBot/SamvidhanBot.py
