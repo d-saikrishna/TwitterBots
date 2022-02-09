@@ -14,7 +14,6 @@ auth = tw.OAuthHandler(consumer_key, consumer_secret)
 auth.set_access_token(access_token, access_token_secret)
 api = tw.API(auth, wait_on_rate_limit=True)
 
-# Post a tweet from Python
 wordle_num = pd.read_csv('wordle_num.csv')
 search_words = '"Wordle %d"' %(wordle_num['wordle_num'][wordle_num.shape[0]-1])
 print(search_words)

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "constitutionbot",
+  "private_key_id": "3e833b17dba115b74eab806ecf7c3faaa398918e",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCkwC0HUmd6A69T\nfXazfulXZlz1TLW4M+NDZgfUu8ytmBc9p+jDDS9si4Dc1iTVPZ8ne3EUSlM6MkeX\nmPj+bs6R1gTkh7EAifC4OBBOgQTjy0VBKD4o9fVSM+aweHA30HYZCCYYYpe0zSbs\nc4wKSDgipc9usE0eJRMKgenqPBHLS4sBTfLeJzfMZHn5ZJIzCdnwKNC8INGczW8J\nkamTw5zxKE88xzf+h5lRlqqi4C7YgtdS+Rp+ksY82kkEjDCBLQqXqnyFQOfrp+3m\nvTjF6g0ht7bt0QjwbyiCVw3TXMakxVfl7AUFPyku/1XqG/P3T+LHp4P+IZ6o95mC\nGzvu0NGlAgMBAAECggEACMdEnvNBGDtCCEzTGlVU0ZdetKNVu27oWRsCp88p5MYJ\n1vsvZ9U4BayZPSsb41DZPh1RtScQsDUlo2o/Oi9lSlgBArxILiMrdGVoWQZ+4DRg\niExAo6YXYD3ruNNyB0dQQ50vinUWaEfWHxs5BwM6Gn6DQv6Z3VVUYmbxs81nlVFn\nO5f/D3g7EuWOdEA7akXMP1QBE3gJOYYBwwLifz5IOxUZDKmOFJ+CCKa5NPN7Hq2C\nmQPES1haNPOnfJ0rWf287WOungVpfwwVg/DMhqWAN8gO29fc6YLwb9hGI8LG7LVk\nPE97cAR1QM1EA+yz5MuJRe1e/i7SND7kjh371Me4AQKBgQDVrs8xHxNQNddAMKiS\nQGrSanL7MEObHY4XkIh85B16/FDgQ5p0tLmjKgeB70TChptRwgYT5mSD9LqiNHjh\nvTm2/CSsIEPjBf5T3XjdiLTQoxSyTVHK+xTUJd7BhyZV0MHCjzjk5lSM/L9iLLmw\nRryKTua/L8e9sCLnFBkN146wJQKBgQDFYKCUCjMYVIas5UZvMiptfOUENdzeaQRz\n17ScQVU8ipc0MiqCUnw+3eZopvKCvcVphe0QoTlJz3cBZ6IecS0sq5s4XtQAK+y2\nepT2sqY3tXPn5YCnIaSriwsRD3HFnNyDU36nV4UOLMlsLMNXOiXQl++et6N0P2vz\ndJEjn/EjgQKBgHYFIBCsbjleE24zsdddVuKywqD0DlMNJt7jCE+amqHD3FORYyzU\naLeyzgS5B4w9Vmn4tOym0puDPtW6D432unrTltmu1G/+bnMZntkU2XFmsVatl+B5\nfw6RgA/5unWpYGs6OZ1LjiV0r6vksganexkU7SNpm3OsZgqlMhVQGlI1AoGAKO3O\nnqQ20DbG7pdksa4/ahDaFLNup5gzWipCw5wwpqs+i45Tjk64gPjWzKDB7SaZBzbE\nYAxuqsWgsePhlFp3uamkOF5Bq/9vyK9GsJl/KlIwRMgsk3vAf+oHU3RWbVoHyBvK\nSb02VCgpZIsrvqzKJqU7BTijZnm4UvW7Gx4RjQECgYAn8PUkBNpxHSOuscvlBu3K\nIDAundiU12Dvt/AVZkdlSSREgL0LawuA11B31vYedMW5v7NmXI959UsQmlnSiJZM\nibP47ZRKp8jzMO927NdxvnsSQgj8iSnd+ZsYigxgf6V9wnjIBZFfBoli0SwHgktO\nCFRAB/IQ/7/Jh2Os7NFPPQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "constitutionbot@constitutionbot.iam.gserviceaccount.com",
+  "client_id": "111055974302272394851",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/constitutionbot%40constitutionbot.iam.gserviceaccount.com"
+}
